@@ -1,1 +1,21 @@
-READ ME - DOOR LOCK AI DEMO.docx
+# ---- Office lock / temporary files ----
+~$*
+*.tmp
+*.bak
+
+# ---- Linux / FUSE / WSL artifacts ----
+.fuse_hidden*
+
+# ---- macOS ----
+.DS_Store
+._*
+
+# ---- Windows ----
+Thumbs.db
+Desktop.ini
+
+# ---- Editor scratch ----
+*.swp
+*.swo
+.idea/
+.vscode/
